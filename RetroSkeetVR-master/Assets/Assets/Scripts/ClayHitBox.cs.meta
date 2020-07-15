@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad38db47004401f429d72d7e250525db
+timeCreated: 1518292673
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ClayPidg: {instanceID: 0}
+  - Shrapnel: {instanceID: 0}
+  - SFXClayHit: {fileID: 8300000, guid: ce1d46c1f18ef6941993d042057e66f0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
